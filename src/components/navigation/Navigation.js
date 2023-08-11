@@ -5,9 +5,9 @@ export default function Navigation() {
     <>
       <nav>
         <ul>
-          <a href="">About</a>
-          <a href="">Projects</a>
-          <a href="">Contact</a>
+          <a className="navigation-link" href="#projects-section">Projects</a>
+          <a className="navigation-link" href="https://tinyurl.com/3v53h8ax" target="_blank" rel="noopener noreferrer">Resume</a>
+          <a className="navigation-link" href="#contact-section">Contact</a>
         </ul>
       </nav>
     </>

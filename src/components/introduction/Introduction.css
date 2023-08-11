@@ -2,7 +2,9 @@
     font-family: "Permanent Marker";
     src: url("/public/fonts/PermanentMarker-Regular.ttf");
   }
-  
+  html {
+    scroll-behavior: smooth;
+  }
   #introduction {
     background: rgba(177, 177, 177, 0.3);
     min-height: 100vh;

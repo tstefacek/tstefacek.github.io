@@ -1,0 +1,18 @@
+#contact-section {
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: rgba(4, 141, 114, 0.69);
+}
+.contact-icon {
+    margin-right: 20px;
+}
+.contact-link {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: white;
+}
+.contact-link:hover {
+    text-decoration: underline;
+}
