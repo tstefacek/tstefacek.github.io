@@ -1,5 +1,5 @@
 #projects-section {
-    background: #FFC914;
+    background: rgba(196, 35, 0, 0.7);;
     min-height: 100vh;
     display: flex;
     justify-content: space-evenly;
@@ -8,6 +8,7 @@
 .project-img {
     width: 300px;
     height: 300px;
+    border-radius: 10px;
 }
 .project-tile {
     display: flex;
